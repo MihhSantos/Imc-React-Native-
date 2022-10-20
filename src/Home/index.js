@@ -13,7 +13,7 @@ export default function Home ({navigation}){
         <Animatable.View style={styles.View}
         >
             <LinearGradient
-            colors={[ '#8C0738', '#000000','#212121' ]}
+            colors={[ '#8C0738', '#212121', '#000000', ]}
             start={{x: 0.5, y: 1}}
             end={{x: 1, y: 0.5}}
             style={styles.container}

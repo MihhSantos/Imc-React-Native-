@@ -40,9 +40,9 @@ export default function IMC ({navigation}){
     return(
         <View style={styles.View}>
             <LinearGradient
-            colors={[ '#8C0738', '#000000','#212121' ]}
-            start={{x: 0, y: 1}}
-            end={{x: 1, y: 0}}
+            colors={[ '#8C0738','#212121', '#000000' ]}
+            start={{x: 0.5, y: 1}}
+            end={{x: 1, y: 0.5}}
             style={styles.container}
             >
                 <Animatable.View

@@ -55,7 +55,7 @@ const styles = StyleSheet.create({
         borderBottomColor: "#fff",
         marginLeft: 'auto',
         marginRight: 'auto',
-        color: 'trasparent'
+        color: '#fff'
     }
 })
 
